@@ -1,0 +1,26 @@
+/* GreetingForm.css */
+
+.greeting-form {
+    display: flex;
+    flex-direction: column; /* everything is arranged in a column*/
+    align-items: center;
+  }
+  
+  .form-group {
+    color: white;
+    margin-bottom: 10px;
+  }
+
+  .output
+  {
+    margin-top: 20px;
+    font-size: 24px;
+    color: rgb(245, 8, 245);
+    margin-bottom: 20px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
