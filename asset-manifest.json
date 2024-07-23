@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/calorie-calculator/static/css/main.d4aa4fbd.css",
+    "main.js": "/calorie-calculator/static/js/main.7e70e2d7.js",
+    "static/js/453.5dcfd441.chunk.js": "/calorie-calculator/static/js/453.5dcfd441.chunk.js",
+    "index.html": "/calorie-calculator/index.html",
+    "main.d4aa4fbd.css.map": "/calorie-calculator/static/css/main.d4aa4fbd.css.map",
+    "main.7e70e2d7.js.map": "/calorie-calculator/static/js/main.7e70e2d7.js.map",
+    "453.5dcfd441.chunk.js.map": "/calorie-calculator/static/js/453.5dcfd441.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4aa4fbd.css",
+    "static/js/main.7e70e2d7.js"
+  ]
+}
